@@ -1,4 +1,4 @@
-                                                                                         # ZOMATO-DATA-ANALYSIS🔥
+ # ZOMATO-DATA-ANALYSIS🔥
 Zomato Data Analysis: Decoding Culinary Insights🍔
 Embark on a gastronomic odyssey with our meticulously crafted Zomato Analysis project, where we delve into the realm of data-driven dining trends and epicurean patterns. Our endeavor encapsulates the essence of culinary exploration, offering aficionados and analysts alike a curated selection of insights extracted from Zomato's extensive repository.
 
